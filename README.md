@@ -4,7 +4,7 @@ A simple and responsive CRM Dashboard built to manage client leads efficiently. 
 
 **Purpose of the Project**
 
-This project was developed as Task 2 – Client Lead Management System (Mini CRM) for the Full Stack Web Development Internship by Future Interns.
+This project was developed as Client Lead Management System (Mini CRM).
 
 The main objective of this project is to understand:
 
@@ -47,10 +47,10 @@ Converted
 **Setup Instructions**
 
 **1. Clone the Repository**
-git clone https://github.com/Logicwithaditya/FUTURE_FS_02.git
+git clone https://github.com/Logicwithaditya/CRM.git
 
 **2. Open Project Folder**
-cd FUTURE_FS_02
+cd CRM
 
 **3. Install Dependencies**
 npm install
